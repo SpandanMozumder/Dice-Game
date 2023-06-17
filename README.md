@@ -1,2 +1,2 @@
-# Dice-Game
-Dice Game Online - Angela Yu
+Dice Game
+HTML, CSS and Javascript used
